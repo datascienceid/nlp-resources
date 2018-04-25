@@ -23,7 +23,7 @@ Star and Fork our repository for latest update.
 
 
 ### Free Books
-1. To do
+1. [NLTK Book](http://nltk.org/book)
 
 ### Courses
 1. To do
