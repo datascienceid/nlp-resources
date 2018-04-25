@@ -47,7 +47,7 @@ Star and Fork our repository for latest update.
 1. To do
 
 ### Libraries
-1. To do
+1.	[NLTK](http://www.nltk.org/)
 
 
 ## Contributing
