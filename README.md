@@ -30,7 +30,6 @@ Star and Fork our repository for latest update.
 1.	[Natural Language Processing - Coursera](https://www.coursera.org/learn/language-processing)
 2.	[Nautral Language Processing - Edx](https://www.edx.org/course/natural-language-processing-nlp)
 3.	[Oxford CS Deep NLP](https://github.com/oxford-cs-deepnlp-2017)
-4.	[]()
 
 ### Videos and Lectures
 1.	[2016 CS224D Deep Learning For Natural Language Processing Lecture Videos](https://www.youtube.com/playlist?list=PLmImxx8Char9Ig0ZHSyTqGsdhb9weEGam)
