@@ -54,7 +54,7 @@ Star and Fork our repository for latest update.
 1.	[Sentiment](https://github.com/vivekn/sentiment)
 2.	[Prediksi Gender Nama](https://github.com/vickydasta/prediksi-gender-nama)
 3.	[Topic Modeling](https://github.com/piskvorky/topic_modeling_tutorial)
-4. [POS Tagging NLTK (Bahasa Indonesia)](https://github.com/mrrizal/POS_Tag_Indonesian)
+4.	[POS Tagging NLTK (Bahasa Indonesia)](https://github.com/mrrizal/POS_Tag_Indonesian)
  
 ### Datasets
 1.	[Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html)
