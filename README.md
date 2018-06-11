@@ -55,7 +55,8 @@ Star and Fork our repository for latest update.
 2.	[Prediksi Gender Nama](https://github.com/vickydasta/prediksi-gender-nama)
 3.	[Topic Modeling](https://github.com/piskvorky/topic_modeling_tutorial)
 4.	[POS Tagging NLTK (Bahasa Indonesia)](https://github.com/mrrizal/POS_Tag_Indonesian)
- 
+5.	[Naive Bayes Document Classifier (Bahasa Indonesia)](https://github.com/mrrizal/Document_Classifier)
+
 ### Datasets
 1.	[Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html)
 2.	[ArXiv](http://arxiv.org/help/bulk_data_s3)
