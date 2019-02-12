@@ -69,6 +69,7 @@ Star and Fork our repository for latest update.
 4.	[Spacy](https://github.com/explosion/spaCy)
 5.	[Sastrawi](https://github.com/sastrawi/sastrawi)
 6.	[Nalapa](https://github.com/anpandu/nalapa)
+7.  [Polyglot](https://github.com/aboSamoor/polyglot)
 
 ## Contributing
 Jika ingin berkontribusi dalam github ini, sangat disarankan untuk `Pull Request` namun dengan resource berbahasa indonesia.
